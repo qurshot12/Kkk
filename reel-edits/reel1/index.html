@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="tr" data-resolution="portrait">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<link rel="stylesheet" href="assets/fonts/fonts.css" />
+<script src="assets/gsap.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#000}
+#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:#000}
+#stage{position:absolute;inset:0;transform-origin:50% 45%}
+.full{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+#bgv{z-index:0}
+.dw.back{z-index:3}
+#cutwrap{position:absolute;inset:0;z-index:4}
+
+/* look overlays */
+.fx{position:absolute;inset:0;pointer-events:none}
+#dtone{z-index:7;background:linear-gradient(180deg,rgba(20,55,75,.16),rgba(60,40,20,.08));mix-blend-mode:soft-light}
+#dvig{z-index:7;background:radial-gradient(95% 62% at 50% 46%,rgba(0,0,0,0) 55%,rgba(0,0,0,.42) 100%)}
+#dgrad{z-index:7;background:linear-gradient(180deg,rgba(0,0,0,.34) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 58%,rgba(0,0,0,.30) 100%)}
+
+/* base type */
+.dw{position:absolute;z-index:8;color:#fff;font-family:'Inter Tight';font-weight:900;letter-spacing:-.05em;line-height:.9;
+  text-shadow:0 10px 40px rgba(0,0,0,.55),0 2px 8px rgba(0,0,0,.35);transform-origin:50% 60%;white-space:nowrap}
+.sm{font-size:84px;font-weight:800;letter-spacing:-.04em}
+.sm2{font-size:56px;font-weight:800;letter-spacing:-.03em}
+.md{font-size:150px}
+.big{font-size:236px}
+.xl{font-size:220px}
+.huge{font-size:300px}
+.y{color:#FAE67A}
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="13.700" data-width="1080" data-height="1920">
+  <audio id="bga" src="assets/aroll.mp4" data-start="0" data-media-start="0" data-duration="13.700" data-track-index="2" data-volume="1"></audio>
+<audio id="sfx0" src="assets/sfx/whoosh-short.mp3" data-start="0.120" data-duration="0.570" data-track-index="10" data-volume="0.188"></audio>
+<audio id="sfx1" src="assets/sfx/whoosh-short.mp3" data-start="3.598" data-duration="0.570" data-track-index="10" data-volume="0.165"></audio>
+<audio id="sfx2" src="assets/sfx/pop.mp3" data-start="5.470" data-duration="0.720" data-track-index="10" data-volume="0.135"></audio>
+<audio id="sfx3" src="assets/sfx/whoosh-short.mp3" data-start="6.865" data-duration="0.570" data-track-index="10" data-volume="0.165"></audio>
+<audio id="sfx4" src="assets/sfx/pop.mp3" data-start="7.500" data-duration="0.720" data-track-index="10" data-volume="0.135"></audio>
+<audio id="sfx5" src="assets/sfx/pop.mp3" data-start="9.850" data-duration="0.720" data-track-index="10" data-volume="0.135"></audio>
+  <div id="stage">
+    <video id="bgv" class="full g" src="assets/aroll.mp4" muted playsinline data-start="0" data-media-start="0" data-duration="13.700" data-track-index="0"></video>
+<div id="w5-0" class="dw xl back y" style="left:0;right:0;text-align:center;top:227px">writing.</div>
+    <div id="cutwrap"><video id="cut" class="full g" src="assets/subject.webm" muted playsinline data-start="0" data-media-start="0" data-duration="13.700" data-track-index="1"></video></div>
+  </div>
+  <div id="dtone" class="fx"></div><div id="dvig" class="fx"></div><div id="dgrad" class="fx"></div>
+<div id="w0-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">kafanda çok iyi</div>
+<div id="w0-1" class="dw sm" style="left:0;right:0;text-align:center;top:1100px">konuşuyorsun</div>
+<div id="w1-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">ama cümle</div>
+<div id="w1-1" class="dw sm" style="left:0;right:0;text-align:center;top:1100px">kurmaya gelince</div>
+<div id="w2-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">her şeyin yeri</div>
+<div id="w2-1" class="dw md y" style="left:0;right:0;text-align:center;top:224px">karışıyor.</div>
+<div id="w3-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">neyse</div>
+<div id="w3-1" class="dw sm" style="left:0;right:0;text-align:center;top:1100px">kimsenin konuşmadığı</div>
+<div id="w4-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">harika bir</div>
+<div id="w4-1" class="dw md y" style="left:0;right:0;text-align:center;top:1110px">çözüm var.</div>
+<div id="w6-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">iyi de</div>
+<div id="w6-1" class="dw md y" style="left:0;right:0;text-align:center;top:1110px">ne alaka?</div>
+<div id="w7-0" class="dw md y" style="left:0;right:0;text-align:center;top:950px">dört</div>
+<div id="w7-1" class="dw sm" style="left:0;right:0;text-align:center;top:1110px">önemli nedeni var</div>
+<div id="w8-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">ve sonuncusu</div>
+<div id="w8-1" class="dw md y" style="left:0;right:0;text-align:center;top:1110px">en önemlisi.</div>
+<div id="w9-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">yazı yazarken</div>
+<div id="w9-1" class="dw sm" style="left:0;right:0;text-align:center;top:1100px">acele etmeden</div>
+<div id="w10-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">kafanda</div>
+<div id="w10-1" class="dw sm y" style="left:0;right:0;text-align:center;top:1100px">kurabilirsin.</div>
+<div id="w11-0" class="dw sm" style="left:0;right:0;text-align:center;top:1010px">karşında seni</div>
+<div id="w11-1" class="dw sm y" style="left:0;right:0;text-align:center;top:1100px">bekleyen yok.</div>
+
+</div>
+<script>
+const tl = gsap.timeline({ paused: true });
+gsap.set('.g',{filter:'contrast(1.07) saturate(.9) brightness(.97)'});
+tl.fromTo('#stage',{scale:1.05},{scale:1,duration:.32,ease:'power2.out',immediateRender:false},3.698);
+tl.fromTo('#stage',{scale:1.05},{scale:1,duration:.32,ease:'power2.out',immediateRender:false},6.965);
+gsap.set('#w0-0',{autoAlpha:0});
+tl.fromTo('#w0-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},0.000);
+tl.to('#w0-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},1.080);
+tl.set('#w0-0',{autoAlpha:0},1.200);
+gsap.set('#w0-1',{autoAlpha:0});
+tl.fromTo('#w0-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},0.730);
+tl.to('#w0-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},1.080);
+tl.set('#w0-1',{autoAlpha:0},1.200);
+gsap.set('#w1-0',{autoAlpha:0});
+tl.fromTo('#w1-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},1.200);
+tl.to('#w1-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},2.230);
+tl.set('#w1-0',{autoAlpha:0},2.350);
+gsap.set('#w1-1',{autoAlpha:0});
+tl.fromTo('#w1-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},1.650);
+tl.to('#w1-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},2.230);
+tl.set('#w1-1',{autoAlpha:0},2.350);
+gsap.set('#w2-0',{autoAlpha:0});
+tl.fromTo('#w2-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},2.350);
+tl.to('#w2-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},3.578);
+tl.set('#w2-0',{autoAlpha:0},3.698);
+gsap.set('#w2-1',{autoAlpha:0});
+tl.fromTo('#w2-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},3.100);
+tl.to('#w2-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},3.578);
+tl.set('#w2-1',{autoAlpha:0},3.698);
+gsap.set('#w3-0',{autoAlpha:0});
+tl.fromTo('#w3-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},3.700);
+tl.to('#w3-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},4.930);
+tl.set('#w3-0',{autoAlpha:0},5.050);
+gsap.set('#w3-1',{autoAlpha:0});
+tl.fromTo('#w3-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},4.000);
+tl.to('#w3-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},4.930);
+tl.set('#w3-1',{autoAlpha:0},5.050);
+gsap.set('#w4-0',{autoAlpha:0});
+tl.fromTo('#w4-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},5.050);
+tl.to('#w4-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},6.080);
+tl.set('#w4-0',{autoAlpha:0},6.200);
+gsap.set('#w4-1',{autoAlpha:0});
+tl.fromTo('#w4-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},5.420);
+tl.to('#w4-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},6.080);
+tl.set('#w4-1',{autoAlpha:0},6.200);
+gsap.set('#w5-0',{autoAlpha:0});
+tl.fromTo('#w5-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},6.200);
+tl.to('#w5-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},6.845);
+tl.set('#w5-0',{autoAlpha:0},6.965);
+gsap.set('#w6-0',{autoAlpha:0});
+tl.fromTo('#w6-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},6.980);
+tl.to('#w6-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},8.000);
+tl.set('#w6-0',{autoAlpha:0},8.120);
+gsap.set('#w6-1',{autoAlpha:0});
+tl.fromTo('#w6-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},7.450);
+tl.to('#w6-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},8.000);
+tl.set('#w6-1',{autoAlpha:0},8.120);
+gsap.set('#w7-0',{autoAlpha:0});
+tl.fromTo('#w7-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},8.130);
+tl.to('#w7-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},9.280);
+tl.set('#w7-0',{autoAlpha:0},9.400);
+gsap.set('#w7-1',{autoAlpha:0});
+tl.fromTo('#w7-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},8.500);
+tl.to('#w7-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},9.280);
+tl.set('#w7-1',{autoAlpha:0},9.400);
+gsap.set('#w8-0',{autoAlpha:0});
+tl.fromTo('#w8-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},9.400);
+tl.to('#w8-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},10.380);
+tl.set('#w8-0',{autoAlpha:0},10.500);
+gsap.set('#w8-1',{autoAlpha:0});
+tl.fromTo('#w8-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},9.800);
+tl.to('#w8-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},10.380);
+tl.set('#w8-1',{autoAlpha:0},10.500);
+gsap.set('#w9-0',{autoAlpha:0});
+tl.fromTo('#w9-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},10.500);
+tl.to('#w9-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},11.680);
+tl.set('#w9-0',{autoAlpha:0},11.800);
+gsap.set('#w9-1',{autoAlpha:0});
+tl.fromTo('#w9-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},11.140);
+tl.to('#w9-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},11.680);
+tl.set('#w9-1',{autoAlpha:0},11.800);
+gsap.set('#w10-0',{autoAlpha:0});
+tl.fromTo('#w10-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},11.800);
+tl.to('#w10-0',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},12.600);
+tl.set('#w10-0',{autoAlpha:0},12.720);
+gsap.set('#w10-1',{autoAlpha:0});
+tl.fromTo('#w10-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},12.180);
+tl.to('#w10-1',{autoAlpha:0,scale:.96,filter:'blur(16px)',duration:.12,ease:'power2.in'},12.600);
+tl.set('#w10-1',{autoAlpha:0},12.720);
+gsap.set('#w11-0',{autoAlpha:0});
+tl.fromTo('#w11-0',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},12.720);
+gsap.set('#w11-1',{autoAlpha:0});
+tl.fromTo('#w11-1',{autoAlpha:0,scale:1.22,filter:'blur(22px)'},{autoAlpha:1,scale:1,filter:'blur(0px)',duration:.2,ease:'power3.out',immediateRender:false},13.200);
+tl.set({}, {}, 13.700);
+window.__timelines["main"] = tl;
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+===== c1  clip1.mov
+[  0.00-  2.62] You can find me on Facebook, in the description.
+[  3.18-  6.20] If you are new to my channel, I will show you the video.
+[  6.38-  7.22] I will write you!
+[  7.32- 10.24] And if you are new, I will upload a new video in the description.
+[ 10.78- 14.04] I will upload a new video in my channel and I will give you a video to show you how to do it.
+words: You@0.00 can@0.22 find@0.24 me@0.30 on@0.60 Facebook,@0.84 in@1.34 the@2.20 description.@2.34 If@3.18 you@3.20 are@4.30 new@4.50 to@4.50 my@4.50 channel,@5.06 I@5.62 will@5.62 show@5.62 you@5.72 the@5.76 video.@6.20 I@6.38 will@6.72 write@6.88 you!@6.88 And@7.32 if@7.58 you@7.74 are@7.92 new,@7.92 I@8.52 will@8.82 upload@8.82 a@9.26 new@9.26 video@9.26 in@9.62 the@9.96 description.@10.18 I@10.78 will@11.00 upload@11.08 a@11.42 new@12.22 video@12.22 in@12.70 my@12.90 channel@12.90 and@12.90 I@13.58 will@13.58 give@13.58 you@13.58 a@13.58 video@13.58 to@13.58 show@13.58 you@13.58 how@13.62 to@14.04 do@14.04 it.@14.04
+speech map: 

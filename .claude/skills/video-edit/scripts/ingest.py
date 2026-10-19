@@ -7,7 +7,7 @@ Usage (run with PY, the skill's Python from .platform.json; it has faster-whispe
 Writes into <project_dir>:
   sources.json             {"c1": "/abs/original.MP4", ...}  (ordered oldest -> newest by file time)
   work/sheet_cN.jpg        8 frames across each clip; work/sheets.jpg stacks them (look at it: setups, angles)
-  words_cN.json            word timestamps per clip (small.en)
+  words_cN.json            word timestamps per clip (small.en, or small for config "language")
   transcript.txt           per-clip segment transcript + speech regions (silencedetect) for picking takes
 Originals are never modified. Everything is read straight from them (no proxies).
 """
@@ -75,12 +75,13 @@ def main():
 
     # device='cpu': the default 'auto' picks CUDA on any PC with an NVIDIA card and then dies on the first clip with
     # "Library cublas64_12.dll is not found" unless the CUDA toolkit happens to be installed
-    m = WhisperModel('small.en', device='cpu', compute_type='int8')
+    model, lang = skillenv.whisper_model()
+    m = WhisperModel(model, device='cpu', compute_type='int8')
     lines = []
     for cid, f in sources.items():
         wav = os.path.join(work, f'{cid}.wav')
         subprocess.run([FF, '-loglevel', 'error', '-y', '-i', f, '-vn', '-ac', '1', '-ar', '16000', wav], check=True)
-        segs, _ = m.transcribe(wav, word_timestamps=True, vad_filter=False)
+        segs, _ = m.transcribe(wav, language=lang, word_timestamps=True, vad_filter=False)
         words = []
         lines.append(f'===== {cid}  {os.path.basename(f)}')
         for s in segs:

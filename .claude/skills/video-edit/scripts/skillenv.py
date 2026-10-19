@@ -285,6 +285,26 @@ def npx_command(node, osn=None, exists=os.path.isfile):
     return [w] if w else None
 
 
+# ------------------------------------------------------------------ config.json
+def language():
+    """Spoken language from config.json ("language", an ISO code like "en" or "tr"); "en" when unset."""
+    try:
+        with open(os.path.join(SKILL_DIR, 'config.json'), encoding='utf-8') as f:
+            return (json.load(f).get('language') or 'en').lower()
+    except (OSError, ValueError, AttributeError):
+        return 'en'
+
+
+def whisper_model(final=False):
+    """-> (model name, language or None). English keeps the .en models; any other language needs a multilingual
+    one, and the .en models invent English filler ("subscribe to my channel") over it. large-v3 for the caption
+    pass because the smaller multilingual models drop and merge words."""
+    lang = language()
+    if lang == 'en':
+        return ('medium.en' if final else 'small.en'), None
+    return ('large-v3' if final else 'small'), lang
+
+
 # ------------------------------------------------------------------ .platform.json
 def load():
     """The machine record written by setup.py, or {} when it is missing, unreadable or from another machine
