@@ -1,0 +1,5 @@
+# video-edit projects: sound effects can't be redistributed (Pixabay license); intermediates are rebuilt by the scripts
+reel-edits/*/assets/sfx/*.mp3
+reel-edits/*/work/seg_*.mp4
+reel-edits/*/work/*.log
+node_modules/

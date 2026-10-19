@@ -1,0 +1,44 @@
+[
+ {
+  "id": "hook",
+  "clip": "c1",
+  "in": 0.0,
+  "out": 3.7,
+  "zoom": 1.0,
+  "cx": 0.5,
+  "cy": 0.5,
+  "line": "",
+  "src_in": 0.0,
+  "src_out": 3.7,
+  "frame": 0,
+  "frames": 111
+ },
+ {
+  "id": "s2",
+  "clip": "c1",
+  "in": 3.93,
+  "out": 7.19,
+  "zoom": 1.2,
+  "cx": 0.5,
+  "cy": 0.42,
+  "line": "",
+  "src_in": 3.93,
+  "src_out": 7.19,
+  "frame": 111,
+  "frames": 98
+ },
+ {
+  "id": "s3",
+  "clip": "c1",
+  "in": 7.33,
+  "out": 14.06,
+  "zoom": 1.0,
+  "cx": 0.5,
+  "cy": 0.5,
+  "line": "",
+  "src_in": 7.33,
+  "src_out": 14.06,
+  "frame": 209,
+  "frames": 202
+ }
+]
