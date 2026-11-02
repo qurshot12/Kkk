@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "alex-hormozi-pitch": {
+      "source": "rediumvex/hormozi-sales-cold-outreach-claude",
+      "sourceType": "github",
+      "skillPath": "alex-hormozi-pitch/SKILL.md",
+      "computedHash": "d0eb012530a09bdb357fc18b465d3327768796830183b7684f164e5197f5ed39"
+    }
+  }
+}
