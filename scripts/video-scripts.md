@@ -49,17 +49,17 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Hook:** İngilizcede derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
 
-**Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım. Sonra asıl sorunu bir mutfak örneğiyle göstereceğim.
+**Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım. Sonra asıl sorunun ne olduğunu söyleyeceğim.
 
 **Body 1:** Mesela Türkçede şunu dersin: "Bence yanlış, ama insanların neden desteklediğini anlıyorum." İngilizcesi: "I think it's wrong, but I get why people support it." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
 
-**Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor? Bildiğin bir yerden, mutfaktan örnek vereyim.
+**Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
 **Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Kelimeler malzeme, sohbet yemek. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
-**Rehook 2:** Bu yüzden çözüm daha çok kelime değil. Daha çok mutfak izlemek.
+**Rehook 2:** Bu yüzden çözüm daha çok kelime ezberlemek değil. Derin sohbetleri daha çok izlemek.
 
-**Body 3:** Yani işinle ya da ilgi alanınla ilgili İngilizce içerik izle. Ama arka planda açık bırakırsan bir şey değişmez. Yemek programını arka planda açık bırakan kimse aşçı olmadı. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
+**Body 3:** Yani işinle ya da ilgi alanınla ilgili İngilizce içerik izle. Ama arka planda açık bırakırsan bir şey değişmez, çünkü dikkat etmediğin şeyi öğrenemezsin. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
 
 **CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
 
