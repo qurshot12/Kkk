@@ -53,13 +53,13 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Body 1:** Mesela Türkçede şunu dersin: "Bence yanlış, ama insanların neden desteklediğini anlıyorum." İngilizcesi: "I think it's wrong, but I get why people support it." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
 
-**Rehook 1:** Kelimelerin hepsi sende. Peki neden çıkmıyor? Cevap mutfakta.
+**Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor? Bildiğin bir yerden, mutfaktan örnek vereyim.
 
 **Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Kelimeler malzeme, sohbet yemek. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
 **Rehook 2:** Bu yüzden çözüm daha çok kelime değil. Daha çok mutfak izlemek.
 
-**Body 3:** İşinle ya da ilgi alanınla ilgili İngilizce kaliteli içerik izle: röportaj, podcast, uzun video. Ama sadece izleme. Fikirlerini nasıl anlattıklarına bak. Nasıl başlıyorlar, nasıl örnek veriyorlar, nasıl "but" diyip karşı çıkıyorlar? Beğendiğin bir cümleyi not al ve bir sonraki sohbetinde kullan.
+**Body 3:** Yani işinle ya da ilgi alanınla ilgili İngilizce içerik izle. Ama arka planda açık bırakırsan bir şey değişmez. Yemek programını arka planda açık bırakan kimse aşçı olmadı. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
 
 **CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
 
