@@ -57,9 +57,9 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Kelimeler malzeme, sohbet yemek. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
-**Rehook 2:** Bu yüzden çözüm daha çok kelime ezberlemek değil. Derin sohbetleri daha çok izlemek.
+**Rehook 2:** Bunu görmenin bir yolu var. Ama çoğu kişi onu yanlış yapıyor.
 
-**Body 3:** Yani işinle ya da ilgi alanınla ilgili İngilizce içerik izle. Ama arka planda açık bırakırsan bir şey değişmez, çünkü dikkat etmediğin şeyi öğrenemezsin. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
+**Body 3:** Yol şu: işinle ya da ilgi alanınla ilgili İngilizce içerik izlemek. Ama çoğu kişi bunu arka planda açık bırakıyor. Dikkat etmediğin şeyi de öğrenemezsin. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
 
 **CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
 
