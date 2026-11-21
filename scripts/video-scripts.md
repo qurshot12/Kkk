@@ -51,7 +51,7 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım. Sonra asıl sorunun ne olduğunu söyleyeceğim.
 
-**Body 1:** Mesela Türkçede şunu dersin: "Bence hata yaptı, ama neden yaptığını anlıyorum." İngilizcesi: "I think he made a mistake, but I get why he did it." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
+**Body 1:** Mesela Türkçede şunu dersin: "Ona katılmıyorum, ama insanların onu neden bu kadar sevdiğini anlıyorum. Güçlü görünen birini istiyorlar." İngilizcesi: "I don't agree with him, but I get why people love him. They want someone who looks strong." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
 
 **Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
@@ -63,4 +63,4 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
 
-> Çekim notu: Body 1'de Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster. "Kelimeler malzeme, sohbet yemek" cümlesini de ekrana yaz.
+> Çekim notu: Body 1'in başında kısa bir Trump fotoğrafı göster. Ekrana isim ya da "diktatör" gibi bir etiket yazma. Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster. "Kelimeler malzeme, sohbet yemek" cümlesini de ekrana yaz.
