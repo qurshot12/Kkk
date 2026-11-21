@@ -51,7 +51,7 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım. Sonra asıl sorunun ne olduğunu söyleyeceğim.
 
-**Body 1:** Mesela Türkçede şunu dersin: "Bence yanlış, ama insanların neden desteklediğini anlıyorum." İngilizcesi: "I think it's wrong, but I get why people support it." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
+**Body 1:** Mesela Türkçede şunu dersin: "Bence hata yaptı, ama neden yaptığını anlıyorum." İngilizcesi: "I think he made a mistake, but I get why he did it." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
 
 **Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
