@@ -1,6 +1,6 @@
 # Proje bağlamı
 
-Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa video (ESL) içerik üretiyor. Ücretsiz Cuma konuşma kulübü (WhatsApp grubu), ücretli küçük konuşma grubu (en fazla 6 kişi, aylık 1.150 TL, 4 seans) ve birebir ders (1.200 TL/ders) satıyor. Kullanıcıyla Türkçe konuş.
+Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa video (ESL) içerik üretiyor. Ücretsiz Cuma konuşma kulübü (WhatsApp grubu) ve birebir ders (1.200 TL/ders) var. Ana ürün birebir ders. Ücretli grubu bıraktı: ücretsiz kulüp varken talep olmadı, ayrıca grup dersi zahmetli ve daha az kârlı. Kulüp, birebir derse öğrenci getiren yer. Kullanıcıyla Türkçe konuş.
 
 ## Script yazarken
 - Her script çalışmasında `references/kallaway/ozet.md` dosyasındaki kurallara uy. Ayrıntı gerekirse aynı klasördeki PDF'lere bak.
