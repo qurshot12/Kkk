@@ -57,10 +57,6 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
-**Rehook 2:** Bunu görmenin bir yolu var. Ama çoğu kişi onu yanlış yapıyor.
-
-**Body 3:** Yol şu: işinle ya da ilgi alanınla ilgili İngilizce içerik izlemek. Ama çoğu kişi bunu arka planda açık bırakıyor. Dikkat etmediğin şeyi de öğrenemezsin. Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar. Beğendiğin bir cümleyi not al. Ama not almak da yetmez. Bir sonraki sohbetinde o cümleyi kullan, ancak o zaman senin olur.
-
-**CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
+**CTA:** Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Yorumlara KANAL yaz, göndereyim.
 
 > Çekim notu: Body 1'de Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster.
