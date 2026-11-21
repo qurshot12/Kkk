@@ -55,7 +55,7 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
-**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
+**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmesi lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
 **CTA:** Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Yorumlara KANAL yaz, göndereyim.
 
