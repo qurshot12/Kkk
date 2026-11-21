@@ -49,13 +49,13 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Hook:** İngilizcede derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
 
-**Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım. Sonra asıl sorunun ne olduğunu söyleyeceğim.
+**Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım.
 
 **Body 1:** Mesela Türkçede şunu dersin: "Haklı olabilir, ama söyleme şekli yanlıştı." İngilizcesi: "He might be right, but the way he said it was wrong." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
 
 **Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
-**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Kelimeler malzeme, sohbet yemek. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
+**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
 **Rehook 2:** Bunu görmenin bir yolu var. Ama çoğu kişi onu yanlış yapıyor.
 
@@ -63,4 +63,4 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **CTA:** Hangi kanalları izleyeceğini bilmiyorsan, yorumlara KANAL yaz, listemi göndereyim.
 
-> Çekim notu: Body 1'de Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster. "Kelimeler malzeme, sohbet yemek" cümlesini de ekrana yaz.
+> Çekim notu: Body 1'de Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster.
