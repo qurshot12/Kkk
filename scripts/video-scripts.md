@@ -51,11 +51,11 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım.
 
-**Body 1:** Mesela Türkçede şunu dersin: "Haklı olabilir, ama söyleme şekli yanlıştı." İngilizcesi: "He might be right, but the way he said it was wrong." Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama bu cümle aklına gelmedi. Demek ki sorun kelime değil.
+**Body 1:** Mesela "He is right" diyebiliyorsun. Ama "Haklı olabilir, ama söyleme şekli yanlıştı" demek istediğinde tıkanıyorsun. Oysa İngilizcesi şu: "He might be right, but the way he said it was wrong." Bu cümlede bilmediğin tek bir kelime yok. Demek ki sorun kelime değil.
 
 **Rehook 1:** Kelimelerin hepsi sende, ama niye çıkmıyor?
 
-**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
+**Body 2:** Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım. İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
 **CTA:** Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Yorumlara KANAL yaz, göndereyim.
 
