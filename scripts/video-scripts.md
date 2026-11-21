@@ -60,3 +60,25 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 **CTA:** Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Yorumlara KANAL yaz, göndereyim.
 
 > Çekim notu: Body 1'de Türkçe cümleyi ekrana yaz, kısa bir duraksama ver, sonra İngilizcesini göster.
+
+---
+
+## 4. İngilizce konuşurken neden tıkanıyorsun? (3 taktik, huni şeklinde)
+
+**Ekran yazısı:** İngilizce konuşurken neden tıkanıyorsun?
+
+**Hook:** Asıl problem yeterince konuşma pratiği yapmaman değil.
+
+**Lock-in:** Bu 3 taktiği bilirsen daha az tıkanırsın. Sonuncusunu ise neredeyse herkes atlıyor.
+
+**1. Kelimeyi tarif et:** Türkçe konuşurken hiç kelime unutmuyor musun? Unutuyorsun, ama konuşmaya devam ediyorsun. Kumandanın İngilizcesi aklına gelmediğinde: "The thing you use to turn the TV on. You use it to change the channel."
+
+**2. İyi konuşanları gözlemle:** Konuşmasını beğendiğin bir ünlünün podcast'ini aç, ama kuru kuru dinleme. Konuşurken takıldığında neler yapıyor, nasıl kalıplar kullanıyor, gözlemle.
+
+**Geçiş:** Gelelim sonuncusuna.
+
+**3. Spesifik içerikler:** Dizi izlemek, film izlemek güzel. Ama işin hakkında daha akıcı konuşmak istiyorsan, işinle ilgili videolar izlemelisin. Çünkü o konuda nasıl konuştuklarını görmen lazım, yoksa tıkanırsın.
+
+**CTA:** Bunu uygulayabilmen için kaliteli kanallar derledim. Yorumlara KANAL yaz, göndereyim.
+
+> Çekim notu: Madde başlıklarını ekrana yaz. 1. maddede İngilizce tarifi ekranda göster.
