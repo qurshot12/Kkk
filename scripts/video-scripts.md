@@ -47,7 +47,7 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 ## 3. Derin sohbet: kelime malzeme, sohbet yemek
 
-**Hook:** İngilizcede derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
+**Hook:** İngilizce derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
 
 **Lock-in:** Bunu sana tek bir cümleyle kanıtlayacağım.
 
