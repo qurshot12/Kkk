@@ -13,4 +13,6 @@ Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa vid
 - **Tutan format:** "İngilizcede orta seviyeden çıkamamanın asıl sebebi X değil" + Türkçesi bilinip İngilizcesi bilinmeyen ifadelerle canlı test (ör. film: "It was great" yerine "gripping").
 - **Canlı test örnekleri:** Ağdalı ya da ileri seviye değil, Türkçede her gün söylenen ama İngilizcesi akla gelmeyen ifadeler olmalı.
 - **CTA:** "Yorumlara KANAL yaz" çalışıyor. DM'den Google Docs kanal listesi gidiyor, 2 dakika sonra kulüp ve birebir ders teklifi geliyor. Tekrar kullanmak sorun değil, Instagram'da izleyici hatırlamıyor.
+- **Video aydınlatır, çözüm DM'den gider.** Video sorunu ve sebebini gösterir, uygulanacak çözüm (kanal listesi) CTA ile DM'den verilir. Bu yüzden body'de uzun "nasıl yapılır" bölümü gereksiz, "yeterince görmedin" gibi bir tespitten sonra direkt CTA gelebilir (Kallaway de lead magnet'i DM'den e-posta karşılığı veriyor).
+- Dinleyiciye ek zihinsel yük getiren etiket cümleleri koyma (ör. "Kelimeler malzeme, sohbet yemek"). Benzetme kendi başına anlaşılıyorsa yeterli.
 - Uydurma istatistik, deney ya da öğrenci hikayesi yazma.
