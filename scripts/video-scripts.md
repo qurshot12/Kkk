@@ -89,13 +89,13 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 İngilizce daha iyi konuşmak için daha az konuşman lazım.
 
-Zaten derdini anlatabiliyorsun ama kendini Türkçedeki kadar iyi ifade edemiyorsun. Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun ama içinden "elimdekiyle yetinicem" demek geçiyor. İngilizcesini bulamıyorsun.
+Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyorsun. Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun ama içinden "elimdekiyle yetinicem" demek geçiyor. İngilizcesini bulamıyorsun.
 
 *(Ekran: I'll make do with what I have.)*
 
 İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin.
 
-Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Derinleşmeni sağlayacak asıl bunun gibi kaliteli içerikler izlemek. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun. Kafanda hayal ettiğin gibi kendini ifade edebilirsin.
+Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Derinleşmeni sağlayacak asıl bunun gibi kaliteli içerikler izlemek. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun.
 
 Bu örnekteki gibi kaliteli kanalları senin için derledim, KANAL yaz göndereyim.
 
