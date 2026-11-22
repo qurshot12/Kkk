@@ -95,7 +95,7 @@ Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyors
 
 İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin.
 
-Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Derinleşmeni sağlayacak asıl bunun gibi kaliteli içerikler izlemek. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun.
+Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni bir üst seviyeye taşıyacak olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun. Konuşmayı bırakma, ama dinlemeye daha çok zaman ayır.
 
 Bu örnekteki gibi kaliteli kanalları senin için derledim, KANAL yaz göndereyim.
 
