@@ -82,3 +82,27 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 **CTA:** Bunu uygulayabilmen için kaliteli kanallar derledim. Yorumlara KANAL yaz, göndereyim.
 
 > Çekim notu: Madde başlıklarını ekrana yaz. 1. maddede İngilizce tarifi ekranda göster.
+
+---
+
+## 5. Daha iyi konuşmak için daha az konuş (gitar, aynı üç akor)
+
+**Hook:** İngilizce daha iyi konuşmak için daha az konuşman lazım.
+
+**Kimlik:** Zaten derdini anlatabiliyorsun, ama kendini Türkçedeki kadar iyi ifade edemiyorsun.
+
+**Sahne (canlı test):** Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun. Ama içinden "elimdekiyle yetineceğim" demek geçiyor. İngilizcesini bulamıyorsun.
+
+**İddia:** İşte bu noktada, istediğin seviyeye daha çok konuşarak gelemezsin.
+
+**Gerekçe:** Gitarı her gün çalsan da, hep aynı üç akorla aynı şarkıları çalarsın. Sen de konuşa konuşa hep aynı cümleleri kuruyorsun.
+
+**Rehook:** Peki yeni akorlar nereden gelecek?
+
+**Çözüm:** Dinlemekten. İyi müzisyenler önce iyi dinleyicidir. İngilizce de öyle. Diziler, filmler izliyorsun, bu faydalı. Ama bunlar çok genel içerikler. Seni derinleştirecek olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcast'ini dikkatli izlersen, kendini nasıl daha iyi anlatabileceğini görürsün. Kafandakine daha yakın konuşmaya başlarsın.
+
+**Hook'a dönüş (opsiyonel):** Yani konuşmaya ayırdığın zamanın bir kısmını dinlemeye ayır.
+
+**CTA:** Bu örnekteki gibi kaliteli kanalları senin için derledim. Yorumlara KANAL yaz, göndereyim.
+
+> Çekim notu: Sahnede "Yeni telefon alacak mısın?" sorusunu ve "I don't have enough money right now" cümlesini ekrana yaz. "İngilizcesini bulamıyorsun" dedikten sonra "I'll make do with what I have." yazısını göster. Çözüm kısmında podcast'ten kısa bir kesit göster.
