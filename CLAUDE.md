@@ -11,7 +11,7 @@ Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa vid
 - **Satışı acı noktası getiriyor.** Ders başvurusu yapanlar videodaki çözümü hatırlamıyor, sadece "bu benim derdim" hissini hatırlıyor. Acı ilk cümlede ve somut bir sahne olarak olmalı.
 - **Sıra: kimlik → acı → çözüm.** Önce izleyiciyi kimliğiyle çağır ("İngilizce anlıyorsun ama..."), sonra acıya bas, çözüm ancak ondan sonra gelir. Satış bu sırayla geliyor.
 - **Huni şeklinde script:** Hook geniş olur (daha çok dağıtım), video ilerledikçe daralır, sonda sadece hedef kitle (derin sohbet isteyen B1–B2) kalır. Maddeler genelden özele sıralanır, CTA en dar maddenin hemen ardından gelir.
-- **Çalışma şekli:** Scripti kullanıcı yazar. Claude Kallaway kurallarına göre sorunları gösterir ve seçenek sunar, metni baştan yazmaz (AI gibi okunmasın, kullanıcının sesi kalsın).
+- **Çalışma şekli:** Scripti kullanıcı yazar. Claude Kallaway kurallarına göre sorunları gösterir ve seçenek sunar, metni baştan yazmaz (AI gibi okunmasın, kullanıcının sesi kalsın). "Tam scripti ver" denince kullanıcının metnini kelimesi kelimesine koru, sadece kullanıcının onayladığı değişiklikleri işle. Kendi cümleni, rehook'unu ya da kapanışını ekleme; öneri varsa ayrıca sor.
 - **Konu ilk cümlede olmalı.** "Kahvedeki dayılar" hook'u konu (İngilizce) ve acı ilk cümlede olmadığı için zayıf kaldı.
 - **Tutan format:** "İngilizcede orta seviyeden çıkamamanın asıl sebebi X değil" + Türkçesi bilinip İngilizcesi bilinmeyen ifadelerle canlı test (ör. film: "It was great" yerine "gripping").
 - **Canlı test örnekleri:** Ağdalı ya da ileri seviye değil, Türkçede her gün söylenen ama İngilizcesi akla gelmeyen ifadeler olmalı.
