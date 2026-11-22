@@ -87,20 +87,18 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 ## 5. Daha iyi konuşmak için daha az konuş
 
-**Hook:** İngilizce daha iyi konuşmak için daha az konuşman lazım.
+İngilizce daha iyi konuşmak için daha az konuşman lazım.
 
-**Kimlik:** Zaten derdini anlatabiliyorsun, ama kendini Türkçedeki kadar iyi ifade edemiyorsun.
+Zaten derdini anlatabiliyorsun ama kendini Türkçedeki kadar iyi ifade edemiyorsun. Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun ama içinden "elimdekiyle yetinicem" demek geçiyor. İngilizcesini bulamıyorsun.
 
-**Sahne (canlı test):** Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun. Ama içinden "elimdekiyle yetineceğim" demek geçiyor. İngilizcesini bulamıyorsun.
+*(Ekran: I'll make do with what I have.)*
 
-**İddia:** İşte bu noktada, istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü konuşurken sadece bildiğin cümleleri tekrar edersin.
+İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü konuşma kapasiten dinleyerek gelişir, konuşma pratiğiyle de kullanabilir hale gelirsin.
 
-**Rehook:** Peki yeni cümleler nereden gelecek?
+Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Derinleşmeni sağlayacak asıl bunun gibi kaliteli içerikler izlemek. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun. Kafanda hayal ettiğin gibi kendini ifade edebilirsin.
 
-**Çözüm:** Dinlemekten. Yeni cümleleri dinleyerek öğrenirsin, konuşarak da onları kullanmayı. Diziler, filmler izliyorsun, bu faydalı. Ama bunlar çok genel içerikler. Seni derinleştirecek olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcast'ini dikkatli izlersen, kendini nasıl daha iyi anlatabileceğini görürsün. Kafandakine daha yakın konuşmaya başlarsın.
+Bu örnekteki gibi kaliteli kanalları senin için derledim, KANAL yaz göndereyim.
 
-**Hook'a dönüş (opsiyonel):** Yani konuşmaya ayırdığın zamanın bir kısmını dinlemeye ayır.
+*(Opsiyonel: Uzun zamandır İngilizceyle iç içesin ama hâlâ istediğin kadar iyi konuşamıyorsun.)*
 
-**CTA:** Bu örnekteki gibi kaliteli kanalları senin için derledim. Yorumlara KANAL yaz, göndereyim.
-
-> Çekim notu: Sahnede "Yeni telefon alacak mısın?" sorusunu ve "I don't have enough money right now" cümlesini ekrana yaz. "İngilizcesini bulamıyorsun" dedikten sonra "I'll make do with what I have." yazısını göster. Çözüm kısmında podcast'ten kısa bir kesit göster.
+> Çekim notu: "Yeni telefon alacak mısın?" ve "I don't have enough money right now" ekranda. "I'll make do with what I have." ekranda. Podcast kesiti ekranda.
