@@ -85,7 +85,7 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 ---
 
-## 5. Daha iyi konuşmak için daha az konuş (gitar, aynı üç akor)
+## 5. Daha iyi konuşmak için daha az konuş
 
 **Hook:** İngilizce daha iyi konuşmak için daha az konuşman lazım.
 
@@ -93,13 +93,11 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 **Sahne (canlı test):** Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun. Ama içinden "elimdekiyle yetineceğim" demek geçiyor. İngilizcesini bulamıyorsun.
 
-**İddia:** İşte bu noktada, istediğin seviyeye daha çok konuşarak gelemezsin.
+**İddia:** İşte bu noktada, istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü konuşurken sadece bildiğin cümleleri tekrar edersin.
 
-**Gerekçe:** Gitarı her gün çalsan da, hep aynı üç akorla aynı şarkıları çalarsın. Sen de konuşa konuşa hep aynı cümleleri kuruyorsun.
+**Rehook:** Peki yeni cümleler nereden gelecek?
 
-**Rehook:** Peki yeni akorlar nereden gelecek?
-
-**Çözüm:** Dinlemekten. İyi müzisyenler önce iyi dinleyicidir. İngilizce de öyle. Diziler, filmler izliyorsun, bu faydalı. Ama bunlar çok genel içerikler. Seni derinleştirecek olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcast'ini dikkatli izlersen, kendini nasıl daha iyi anlatabileceğini görürsün. Kafandakine daha yakın konuşmaya başlarsın.
+**Çözüm:** Dinlemekten. Yeni cümleleri dinleyerek öğrenirsin, konuşarak da onları kullanmayı. Diziler, filmler izliyorsun, bu faydalı. Ama bunlar çok genel içerikler. Seni derinleştirecek olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcast'ini dikkatli izlersen, kendini nasıl daha iyi anlatabileceğini görürsün. Kafandakine daha yakın konuşmaya başlarsın.
 
 **Hook'a dönüş (opsiyonel):** Yani konuşmaya ayırdığın zamanın bir kısmını dinlemeye ayır.
 
