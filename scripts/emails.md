@@ -2,7 +2,7 @@
 
 ## 1. Derin sohbet (3. video scriptinin e-posta hali)
 
-Video metni korunmuştur. E-posta için değişenler: konu satırı, önizleme metni, selamlama, satır araları ve CTA.
+Video metni korunmuştur. E-posta için değişenler: konu satırı, önizleme metni, selamlama, satır araları ve CTA (özel derse yönlendiriyor).
 
 **Konu satırı (seçenekler):**
 1. İngilizce derin sohbet edemiyorsan
@@ -33,6 +33,6 @@ Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, bah
 
 İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
-Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Bu e-postaya **KANAL** yazıp yanıtla, göndereyim.
+Bu eksiğini birebir derste birlikte kapatabiliriz. Formu doldur, sana dönüş yapayım: [form linki]
 
 [Adın]
