@@ -1,54 +1,38 @@
 # E-postalar
 
-## 1. Derin sohbet: kelime malzeme, sohbet yemek
+## 1. Derin sohbet (3. video scriptinin e-posta hali)
+
+Video metni korunmuştur. E-posta için değişenler: konu satırı, önizleme metni, selamlama, satır araları ve CTA.
 
 **Konu satırı (seçenekler):**
-1. Kelimeleri biliyorsun ama cümle çıkmıyor mu?
-2. Bu cümlede bilmediğin kelime yok
-3. İngilizce derin sohbetin önündeki asıl engel
+1. İngilizce derin sohbet edemiyorsan
+2. Bu cümlede bilmediğin tek bir kelime yok
+3. Kelimelerin hepsi sende, ama niye çıkmıyor?
 
-**Önizleme metni:** Sebebi az kelime bilmen değil. Tek bir cümleyle kanıtlayayım.
+**Önizleme metni:** Sebebi az kelime bilmen değil. Az konuşman da değil.
 
 ---
 
 Merhaba,
 
-İngilizcede derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
+İngilizce derin sohbet edemiyorsan, sebebi az kelime bilmen değil. Az konuşman da değil.
 
-Bunu sana tek bir cümleyle kanıtlayayım.
+Bunu sana tek bir cümleyle kanıtlayacağım.
 
-Türkçede şunu rahatça söylersin:
+Mesela "He is right" diyebiliyorsun. Ama "Haklı olabilir, ama söyleme şekli yanlıştı" demek istediğinde tıkanıyorsun.
 
-**"Bence yanlış, ama insanların neden desteklediğini anlıyorum."**
+Oysa İngilizcesi şu:
 
-İngilizcesi:
+**"He might be right, but the way he said it was wrong."**
 
-**"I think it's wrong, but I get why people support it."**
+Bu cümlede bilmediğin tek bir kelime yok. Demek ki sorun kelime değil.
 
-Bu cümlede bilmediğin tek bir kelime var mı? Yok. Ama konuşurken bu cümle aklına gelir miydi?
+Kelimelerin hepsi sende, ama niye çıkmıyor?
 
-Demek ki sorun kelime değil.
+Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmesi lazım.
 
-Peki kelimelerin hepsi sendeyse, cümle neden çıkmıyor?
+İngilizce de aynı. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
 
-Yemek yapmayı bilmeyen birine bütün malzemeleri ver. Soğan, domates, et, baharat. Ama yine yemek yapamaz. Çünkü soğanı ne zaman atacağını bilmiyor. Ne kadar pişireceğini, altını ne kadar açacağını bilmiyor. Bunu bilmek için daha önce birinin yaptığını görmen lazım.
-
-İngilizce de aynı. Kelimeler malzeme, sohbet yemek. Sen de İngilizce derin bir sohbetin nasıl yapıldığını yeterince görmedin.
-
-Bunu görmenin bir yolu var. Ama çoğu kişi onu yanlış yapıyor.
-
-Yol şu: işinle ya da ilgi alanınla ilgili İngilizce içerik izlemek. Ama çoğu kişi bunu arka planda açık bırakıyor. Dikkat etmediğin şeyi de öğrenemezsin.
-
-Bu yüzden izlerken tek bir şeye bak: fikirlerini nasıl anlatıyorlar.
-
-Bugün bir dene. İzlediğin bir videoda birinin fikrini anlattığı ya da karşı çıktığı bir cümle bul. Not al.
-
-Hangi kanalları izleyeceğini bilmiyorsan, bu e-postayı **KANAL** yazarak yanıtla. Listemi göndereyim.
+Bu eksiğini kapatabilmen için kaliteli kanalları derledim. Bu e-postaya **KANAL** yazıp yanıtla, göndereyim.
 
 [Adın]
-
-**P.S.** Not almak tek başına yetmiyor. O cümleyi kendi sohbetine nasıl taşıyacağını bir sonraki e-postada anlatacağım.
-
----
-
-> Not: P.S. bir sonraki e-postaya open loop açıyor. 2. e-posta (cümleyi sohbette kullanmak) yazılmadan bu P.S.'i gönderme. 2. e-posta, ücretli grubu tanıtmak için doğal bir köprü: "Cümleyi kullanacak bir yer lazım."
