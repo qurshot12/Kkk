@@ -1,6 +1,6 @@
 # Proje bağlamı
 
-Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa video (ESL) içerik üretiyor. Hedef kitle konuşabiliyor ve temel olarak kendini kurtarabiliyor, ama istediği gibi konuşamıyor ve derin sohbette zorlanıyor. Kimlik çağrısı ve acı noktası buna göre kurulmalı ("hiç konuşamıyorum" değil, "istediğim gibi konuşamıyorum"). Ücretsiz Cuma konuşma kulübü (WhatsApp grubu) ve birebir ders (1.200 TL/ders) var. Ana ürün birebir ders. Ücretli grubu bıraktı: ücretsiz kulüp varken talep olmadı, ayrıca grup dersi zahmetli ve daha az kârlı. Kulüp, birebir derse öğrenci getiren yer (grupta yaklaşık 110 kişi var, her Cuma 10–12 kişi katılıyor). Kullanıcıyla Türkçe konuş.
+Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa video (ESL) içerik üretiyor. Hedef kitle konuşabiliyor ve temel olarak kendini kurtarabiliyor, ama istediği gibi konuşamıyor ve derin sohbette zorlanıyor. Kimlik çağrısı ve acı noktası buna göre kurulmalı ("hiç konuşamıyorum" değil, "istediğim gibi konuşamıyorum"). Ücretsiz Cuma konuşma kulübü (WhatsApp grubu) ve birebir ders (tek ders 1.500 TL, 8 derslik paket 10.800 TL, yani ders başı 1.350 TL) var. Ana ürün birebir ders. Ücretli grubu bıraktı: ücretsiz kulüp varken talep olmadı, ayrıca grup dersi zahmetli ve daha az kârlı. Kulüp, birebir derse öğrenci getiren yer (grupta yaklaşık 110 kişi var, her Cuma 10–12 kişi katılıyor). Kullanıcıyla Türkçe konuş.
 
 ## Script yazarken
 - Her script çalışmasında `references/kallaway/ozet.md` dosyasındaki kurallara uy. Ayrıntı gerekirse aynı klasördeki PDF'lere bak.
