@@ -99,6 +99,4 @@ Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni b
 
 Bu örnekteki gibi kaliteli kanalları senin için derledim, KANAL yaz göndereyim.
 
-*(Opsiyonel: Uzun zamandır İngilizceyle iç içesin ama hâlâ istediğin kadar iyi konuşamıyorsun.)*
-
 > Çekim notu: "Yeni telefon alacak mısın?" ve "I don't have enough money right now" ekranda. "I'll make do with what I have." ekranda. Podcast kesiti ekranda.
