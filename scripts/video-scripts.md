@@ -93,9 +93,7 @@ Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyors
 
 *(Ekran: I'll make do with what I have.)*
 
-İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin. Ama neyi dinlediğin, ne kadar dinlediğinden daha önemli.
-
-Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni bir üst seviyeye taşıyacak olan, spesifik ve senaryosuz içerikler. Mesela finans hakkında daha iyi konuşabilmek istiyorsan dizi izlemek yerine bunu izle.
+İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin. Ama neyi dinlediğin, ne kadar dinlediğinden daha önemli. Bu yüzden seni bir üst seviyeye taşıyacak spesifik ve senaryosuz içerikler tüketmelisin. Mesela finans hakkında daha iyi konuşabilmek istiyorsan dizi izlemek yerine bunu izle.
 
 Bu örnekteki gibi kanalları senin için derledim, KANAL yaz göndereyim.
 
