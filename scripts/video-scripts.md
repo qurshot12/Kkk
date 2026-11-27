@@ -95,8 +95,8 @@ Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyors
 
 İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin. Ama bu noktada neyi dinlediğin, ne kadar dinlediğinden daha önemli.
 
-Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni bir üst seviyeye taşıyacak olan, bunun gibi spesifik ve senaryosuz içerikler. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun. Konuşmayı bırakma, ama dinlemeye daha çok zaman ayır.
+Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni bir üst seviyeye taşıyacak olan, bunun gibi spesifik ve senaryosuz içerikler. Mesela finans hakkında daha iyi konuşabilmek istiyorsan dizi izlemek yerine bunu izle. Konuşmayı bırakma, ama dinlemeye daha çok zaman ayır.
 
 Bu örnekteki gibi spesifik ve senaryosuz kanalları senin için derledim, KANAL yaz göndereyim.
 
-> Çekim notu: "Yeni telefon alacak mısın?" ve "I don't have enough money right now" ekranda. "I'll make do with what I have." ekranda. Podcast kesiti ekranda.
+> Çekim notu: "Yeni telefon alacak mısın?" ve "I don't have enough money right now" ekranda. "I'll make do with what I have." ekranda. "Bunu izle" derken finans içeriğinden kısa bir kesit ekranda.
