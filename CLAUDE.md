@@ -2,6 +2,10 @@
 
 Kullanıcı Türk B1 ve B2 İngilizce öğrencileri için Instagram'da kısa video (ESL) içerik üretiyor. Hedef kitle konuşabiliyor ve temel olarak kendini kurtarabiliyor, ama istediği gibi konuşamıyor ve derin sohbette zorlanıyor. Kimlik çağrısı ve acı noktası buna göre kurulmalı ("hiç konuşamıyorum" değil, "istediğim gibi konuşamıyorum"). Ücretsiz Cuma konuşma kulübü (WhatsApp grubu) ve birebir ders (tek ders 1.500 TL, 8 derslik paket 10.800 TL, yani ders başı 1.350 TL) var. Ana ürün birebir ders. Ücretli grubu bıraktı: ücretsiz kulüp varken talep olmadı, ayrıca grup dersi zahmetli ve daha az kârlı. Kulüp, birebir derse öğrenci getiren yer (grupta yaklaşık 110 kişi var, her Cuma 10–12 kişi katılıyor). Kullanıcıyla Türkçe konuş.
 
+## Kullanıcının öğretim yöntemi (scriptlerin ana fikri)
+1. **Alıcı gözle, aktif izlemek:** Derin sohbet içeren içerikleri dikkatle izle, beğendiğin cümle kalıplarını not al, kendi örnek cümleni kur. Böylece kalıp çabuk kalıcılaşır ve konuşurken aklına gelir. (Kanal listesi bu aşamaya hizmet ediyor.)
+2. **Konuşurken risk almak:** Çoğu kişi yeterince risk almıyor. Batırmayı kabul edip içselleştirdiği kalıpları konuşmada kullanmalı. Bu şekilde o cümleleri kurabilen birine dönüşür. (Kulüp ve birebir ders bu aşamaya hizmet ediyor.)
+
 ## Script yazarken
 - Her script çalışmasında `references/kallaway/ozet.md` dosyasındaki kurallara uy. Ayrıntı gerekirse aynı klasördeki PDF'lere bak.
 - Hikaye akışında "ama / bu yüzden" (South Park) bağlantılarını kullan.
