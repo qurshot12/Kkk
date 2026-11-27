@@ -93,7 +93,7 @@ Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyors
 
 *(Ekran: I'll make do with what I have.)*
 
-İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin.
+İşte bu noktada istediğin seviyeye daha çok konuşarak gelemezsin. Çünkü yeni kalıpları sadece dinleyerek ve okuyarak öğrenirsin, konuşarak kullanabilir hale gelirsin. Ama bu noktada neyi dinlediğin, ne kadar dinlediğinden daha önemli.
 
 Diziler filmler izliyorsun, bu faydalı ama bunlar çok genel içerikler. Seni bir üst seviyeye taşıyacak olan, bunun gibi kaliteli içerikler. Mesela buradaki kişisel gelişim podcastini dikkatli izlersen kendini nasıl daha iyi anlatabileceğini görmüş olursun. Konuşmayı bırakma, ama dinlemeye daha çok zaman ayır.
 
