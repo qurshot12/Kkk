@@ -85,9 +85,9 @@ Kendi alanında kaliteli içerik bulmakta zorlanıyorsan, yorumlara KANAL yaz. D
 
 ---
 
-## 5. Daha iyi konuşmak için daha az konuş
+## 5. Neden çok konuşmak İngilizceni geliştirmiyor?
 
-İngilizce daha iyi konuşmak için daha az konuşman lazım.
+**Ekran yazısı:** Neden çok konuşmak İngilizceni geliştirmiyor?
 
 Zaten derdini anlatabiliyorsun ama kendini Türkçedeki gibi iyi ifade edemiyorsun. Biri sana "Yeni telefon alacak mısın?" diye soruyor. "I don't have enough money right now" diyorsun ama içinden "elimdekiyle yetinicem" demek geçiyor. İngilizcesini bulamıyorsun.
 
